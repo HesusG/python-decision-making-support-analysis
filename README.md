@@ -8,19 +8,19 @@
 
 Welcome to the Decision Support Analysis Repository! 🎉 This repository is designed to support your learning journey in decision-making analysis. It covers various topics that will be covered weekly in the course. Let's take a look at the topics that will be explored:
 
-## Week 1: Introduction to Decision Support Analysis and Linear Programming 📊
+## Module 1: Introduction to Decision Support Analysis and Linear Programming 📊
 - Modeling decision problems effectively 📈
 - Understanding the graphical method for linear programming 📉
 - Exploring the simplex method for optimization ➕
 - Analyzing duality and sensitivity in linear programming 🔄
 
-## Week 2: Forecasting for Decision Making 🌤️
+## Module 2: Forecasting for Decision Making 🌤️
 - Introduction to forecasting techniques 🕒
 - Exploring time series analysis for predicting trends ⏰
 - Understanding causal methods for forecasting 🌐
 - Leveraging forecasting tools for decision support 📈
 
-## Week 3: Waiting Lines ⏳
+## Module 3: Waiting Lines ⏳
 - Exploring the structure of a queuing system 🚶
 - Simulating waiting lines using the M/M/n model 📊
 - Applying simulation techniques to analyze waiting lines 🔁
