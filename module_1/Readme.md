@@ -20,4 +20,4 @@ By the end of this lesson, students will be able to:
 ## Postwork
 
 - Apply the concepts from the class to a Project
-  - [See guidelines](Postwork1.ipynb)
+  - [See guidelines](Postwork1.md)
