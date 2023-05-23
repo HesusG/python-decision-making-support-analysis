@@ -49,14 +49,9 @@ Please refer to the following table for the rubric that will be used to evaluate
 | Correct answers             | 80     |
 | Clear and concise reasoning | 20     |
 
-## Submission
-
-- Answer the questions based on the provided code snippets and the Whiskas case.
-- Submit your answers as a Markdown document in a Github Repository.
-- Make sure to write clear and concise explanations for your answers.
 
 Good luck!
-"""
+
 
 # Question set
 
