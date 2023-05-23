@@ -60,16 +60,20 @@ Good luck!
 
 # Question set
 
-1. What is the objective of the problem defined in code1?
-2. How is the total cost of ingredients per can calculated in the objective function of code1?
-3. Explain the constraint "PercentagesSum" in both code1 and code2.
-4. Compare the formulation of the "ProteinRequirement" constraint in code1 and code2.
-5. What are the decision variables in code2, and how are they defined?
-6. How are the costs of ingredients and nutritional percentages represented in code2?
-7. What is the significance of using dictionaries in code2 to represent the costs and nutritional percentages?
-8. Compare the output file name and format in code1 and code2.
-9. What does the solution status from LpStatus[prob.status] represent in both code1 and code2?
-10. OPTIONAL - (5/100 Extra Points for Final Test) Write all your answers as a markdown document (.md) and upload it to your github account.
+Consider the WhiskasModel1.py
+
+1. What are the two parameters that the LpProblem function implements?
+2. Is it mandatory to name thr prob variable as prob?
+3. What are LpContinous and LpInteger used for?
+4. Explain and copy the section of code that defines the objective function.
+5. Explain and copy the section of code that defines the constraints.
+6. Is this a minimization or maximization problem?
+7. Run the WhiskasModel1.py code. (no need to make changes, just runt it as is) What is the value of the following variables.
+   Status:
+   BeefPercent =
+   ChickenPercent =
+   Total Cost of Ingredients per can =
+8. OPTIONAL - (5/100 Extra Points for Final Test) Write all your answers as a markdown document (.md) and upload it to your github account.
 
 ## Additional Materials
 
