@@ -15,7 +15,7 @@ By the end of this lesson, students will be able to:
 
 - [Introduction to Linear Programming](Introduction_to_Linear_Programming.ipynb)
 - [Graphical Method](Graphical_Method.ipynb)
-- [Sensibility Analysis](Sensibility_Analysis.ipynb)
+- [Problem Set](problem_set.ipynb)
 
 ## Postwork
 
