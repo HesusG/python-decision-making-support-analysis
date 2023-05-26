@@ -1,4 +1,4 @@
-[`Decision Support Analysis`](../README.md) > `Session 01`
+[`Decision Support Analysis`](../README.md) > `Module 01`
 
 # Session 1: Introduction to Decision Support Analysis and Linear Programming 📊
 
