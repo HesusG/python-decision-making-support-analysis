@@ -1,6 +1,6 @@
 [`Decision Support Analysis`](../README.md) > `Module 01`
 
-# Session 1: Introduction to Decision Support Analysis and Linear Programming 📊
+# Module 1: Introduction to Decision Support Analysis and Linear Programming 📊
 
 ## :dart: Objectives
 
